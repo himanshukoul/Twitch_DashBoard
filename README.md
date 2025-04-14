@@ -13,3 +13,6 @@ This project streams real-time Twitch data (top 10 streams) to a Power BI datase
    ```R
    install.packages(c("httr", "jsonlite", "dotenv"))
    ```
+
+
+![image](https://github.com/user-attachments/assets/db03c3aa-98c0-4e5f-ba98-c049d41f6072)
